@@ -3,7 +3,7 @@ import time
 import pickle
 import pandas as pd
 import requests
-from streamlit_lottie import st_lottie  # Pastikan sudah install streamlit-lottie
+from streamlit-lottie import st_lottie
 
 # --- SET PAGE CONFIG (Harus paling atas) ---
 st.set_page_config(
