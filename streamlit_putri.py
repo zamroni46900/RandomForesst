@@ -87,7 +87,7 @@ st.markdown("""
     }
 
     .stMetric {
-        background-color: white;
+        background-color: black;
         border-radius: 15px;
         padding: 20px;
         box-shadow: 0 6px 12px rgba(255, 105, 180, 0.2);
